@@ -2,6 +2,7 @@
 
 ## Federated Learning
 - [Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints](./Clustered_Federated_Learning_Model_Agnostic_Distributed_Multitask_Optimization_Under_Privacy_Constraints/)
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](./Communication_Efficient_Learning_of_Deep_Networks_from_Decentralized_Data/)
 - [FairFed: Enabling Group Fairness in Federated Learning](./FairFed_Enabling_Group_Fairness_in_Federated_Learning/)
 - [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](./FedBN_Federated_Learning_on_Non_IID_Features_via_Local_Batch_Normalization/)
 - [Federated Optimization in Heterogeneous Networks](./Federated_Optimization_in_Heterogeneous_Networks/)
