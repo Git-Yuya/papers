@@ -11,6 +11,7 @@
 - [HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images](./HarmoFL_Harmonizing_Local_and_Global_Drifts_in_Federated_Learning_on_Heterogeneous_Medical_Images/)
 - [Model-Contrastive Federated Learning](./Model_Contrastive_Federated_Learning/)
 - [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](./SCAFFOLD_Stochastic_Controlled_Averaging_for_Federated_Learning/)
+- [The Future of Digital Health with Federated Learning](./The_Future_of_Digital_Health_with_Federated_Learning/)
 - [Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts](./Think_Twice_Before_Selection_Federated_Evidential_Active_Learning_for_Medical_Image_Analysis_with_Domain_Shifts/)
 
 ## Massive Training Artificial Neural Network (MTANN)
