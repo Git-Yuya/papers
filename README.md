@@ -8,6 +8,7 @@
 - [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](./FedBN_Federated_Learning_on_Non_IID_Features_via_Local_Batch_Normalization/)
 - [Federated Multi-Task Learning](./Federated_Multi_Task_Learning/)
 - [Federated Optimization in Heterogeneous Networks](./Federated_Optimization_in_Heterogeneous_Networks/)
+- [FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings](./FLamby_Datasets_and_Benchmarks_for_Cross_Silo_Federated_Learning_in_Realistic_Healthcare_Settings/)
 - [HarmoFL: Harmonizing Local and Global Drifts in Federated Learning on Heterogeneous Medical Images](./HarmoFL_Harmonizing_Local_and_Global_Drifts_in_Federated_Learning_on_Heterogeneous_Medical_Images/)
 - [Model-Contrastive Federated Learning](./Model_Contrastive_Federated_Learning/)
 - [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](./SCAFFOLD_Stochastic_Controlled_Averaging_for_Federated_Learning/)
