@@ -7,6 +7,7 @@
 - [FairFed: Enabling Group Fairness in Federated Learning](./FairFed_Enabling_Group_Fairness_in_Federated_Learning/)
 - [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](./FedBN_Federated_Learning_on_Non_IID_Features_via_Local_Batch_Normalization/)
 - [Federated Active Learning (F-AL): An Efficient Annotation Strategy for Federated Learning](./Federated_Active_Learning_F-AL_An_Efficient_Annotation_Strategy_for_Federated_Learning/)
+- [Federated cINN Clustering for Accurate Clustered Federated Learning](./Federated_cINN_Clustering_for_Accurate_Clustered_Federated_Learning/)
 - [Federated Multi-Task Learning](./Federated_Multi_Task_Learning/)
 - [Federated Optimization in Heterogeneous Networks](./Federated_Optimization_in_Heterogeneous_Networks/)
 - [FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings](./FLamby_Datasets_and_Benchmarks_for_Cross_Silo_Federated_Learning_in_Realistic_Healthcare_Settings/)
