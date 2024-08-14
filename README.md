@@ -1,6 +1,7 @@
 # Papers
 
 ## Deep Learning (DL)
+- [An Image Is Worth 16x16 Words Transformers for Image Recognition at Scale](./An_Image_Is_Worth_16x16_Words_Transformers_for_Image_Recognition_at_Scale/)
 - [Attention Is All You Need](./Attention_Is_All_You_Need/)
 
 ## Federated Learning (FL)
