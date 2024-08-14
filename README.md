@@ -1,5 +1,8 @@
 # Papers
 
+## Deep Learning (DL)
+- [Attention Is All You Need](./Attention_Is_All_You_Need/)
+
 ## Federated Learning (FL)
 - [Adaptive Federated Optimization](./Adaptive_Federated_Optimization/)
 - [Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints](./Clustered_Federated_Learning_Model_Agnostic_Distributed_Multitask_Optimization_Under_Privacy_Constraints/)
